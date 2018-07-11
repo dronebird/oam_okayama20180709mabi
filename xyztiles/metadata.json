@@ -1,0 +1,13 @@
+{
+  "name": "mabi_2018-07-10_DRONEBIRD",
+  "version": "1.1.0",
+  "description": "",
+  "attribution": "Rendered with <a href=\"https://www.maptiler.com/\">MapTiler</a>",
+  "type": "overlay",
+  "format": "png",
+  "minzoom": "15",
+  "maxzoom": "20",
+  "scale": "1.000000",
+  "bounds": [133.67879719, 34.62309284, 133.68830677, 34.63193856],
+  "profile": "mercator"
+}
